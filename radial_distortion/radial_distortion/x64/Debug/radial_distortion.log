@@ -1,0 +1,7 @@
+﻿  GetIntr.cpp
+d:\courseware\cv\hw\assignment3\radial_distortion\radial_distortion\getintr.cpp(47): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+  radial_distortion.vcxproj -> D:\courseware\CV\hw\assignment3\radial_distortion\x64\Debug\radial_distortion.exe
